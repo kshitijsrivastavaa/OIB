@@ -71,7 +71,7 @@
 
 ### 💬 AI Chat Interface
 <div align="center">
-  <img src="[./assets/chat.png](https://raw.githubusercontent.com/kshitijsrivastavaa/DocQA-AI/refs/heads/main/pictures/Chat_Interaction.png)" alt="Chat Interface" width="800"/>
+  <img src="https://raw.githubusercontent.com/kshitijsrivastavaa/DocQA-AI/main/pictures/Chat_Interaction.png" alt="Chat Interface" width="800"/>
 </div>
 
 ---
