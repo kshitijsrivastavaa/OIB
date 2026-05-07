@@ -27,23 +27,6 @@
 <div align="center">
   <img src="https://github.com/kshitijsrivastavaa/DocQA-AI/issues/1#issue-4401186302" alt="DocQA Demo" width="800"/>
 </div>
-
-<!-- ============================================================
-     OPTION 2 — YouTube / Loom video thumbnail (click to play)
-     1. Upload a demo video to YouTube or Loom
-     2. Take a screenshot of your app as thumbnail
-     3. Replace YOUR_VIDEO_ID and thumbnail path below
-     ============================================================ -->
-
-<!--
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
-    <img src="./assets/thumbnail.png" alt="Watch Demo Video" width="800"/>
-  </a>
-  <p><i>👆 Click to watch the full demo video</i></p>
-</div>
--->
-
 ---
 
 ## 📸 Screenshots
