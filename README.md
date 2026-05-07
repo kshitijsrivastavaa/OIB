@@ -22,8 +22,6 @@
 
 ## 🎬 Demo 
 
-(https://github.com/kshitijsrivastavaa/DocQA-AI/issues/1#issue-4401186302)
-
 <div align="center">
   <img src="https://github.com/kshitijsrivastavaa/DocQA-AI/issues/1#issue-4401186302" alt="DocQA Demo" width="800"/>
 </div>
