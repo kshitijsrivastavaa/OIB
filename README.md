@@ -1,3 +1,4 @@
+# 🧠 DocQA — AI-Powered Document & Multimedia Q&A
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=180&section=header&text=DocQA%20AI&fontSize=50&fontColor=c0caf5&fontAlignY=38&desc=AI-Powered%20Document%20%26%20Multimedia%20Q%26A&descAlignY=58&descColor=a9b1d6" />
@@ -64,7 +65,7 @@
 
 ### 🏠 Home — Upload Screen
 <div align="center">
-  <img src="./assets/home.png" alt="Home Screen" width="800"/>
+  <img src="https://raw.githubusercontent.com/kshitijsrivastavaa/DocQA-AI/refs/heads/main/pictures/Landing_Page.png" alt="Home Screen" width="800"/>
 </div>
 
 ---
@@ -78,21 +79,14 @@
 
 ### 🎬 Video Q&A with Timestamps
 <div align="center">
-  <img src="./assets/video-qa.png" alt="Video Q&A" width="800"/>
+  <img src="https://raw.githubusercontent.com/kshitijsrivastavaa/DocQA-AI/refs/heads/main/pictures/Timestamp.png" alt="Video Q&A" width="800"/>
 </div>
 
 ---
 
-### 🎧 Audio Transcription
+### 🎧 Features
 <div align="center">
-  <img src="./assets/audio.png" alt="Audio Transcription" width="800"/>
-</div>
-
----
-
-### 📊 Semantic Search Results
-<div align="center">
-  <img src="./assets/search.png" alt="Semantic Search" width="800"/>
+  <img src="https://raw.githubusercontent.com/kshitijsrivastavaa/DocQA-AI/refs/heads/main/pictures/Features.png" alt="Audio Transcription" width="800"/>
 </div>
 
 ---
@@ -286,26 +280,28 @@ docqa/
 ├── backend/
 │   ├── app/
 │   │   ├── api/            # FastAPI route handlers
+│   │   │   ├── documents.py
+│   │   │   ├── chat.py
+│   │   │   └── media.py
 │   │   ├── core/           # Config, database
 │   │   ├── models/         # SQLAlchemy models
 │   │   ├── services/       # Business logic
+│   │   │   ├── document_service.py  # PDF/Whisper/FAISS
+│   │   │   └── chat_service.py      # OpenAI chat + streaming
 │   │   └── tests/          # Test suite (95%+ coverage)
 │   ├── requirements.txt
-│   └── Dockerfile
+│   ├── Dockerfile
+│   └── pytest.ini
 ├── frontend/
 │   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   └── services/
+│   │   ├── components/     # Layout, shared components
+│   │   ├── pages/          # Home (upload), DocumentView (chat)
+│   │   └── services/       # API client
+│   ├── package.json
 │   └── Dockerfile
-├── assets/                 # 👈 PUT YOUR SCREENSHOTS & GIF HERE
-│   ├── demo.gif
-│   ├── home.png
-│   ├── chat.png
-│   ├── video-qa.png
-│   ├── audio.png
-│   └── search.png
-├── .github/workflows/ci.yml
+├── .github/
+│   └── workflows/
+│       └── ci.yml          # GitHub Actions CI/CD
 ├── docker-compose.yml
 └── README.md
 ```
