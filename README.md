@@ -23,12 +23,12 @@
 
 ## 🎬 Demo
 
-<!-- ============================================================
+[<!-- ============================================================
      OPTION 1 — Animated GIF (RECOMMENDED, shows up inline)
      Record your screen using: https://www.screentogif.com (Windows)
      or Kap (Mac) or peek (Linux) — keep it under 10MB
      Then upload to your repo and replace the path below
-     ============================================================ -->
+     ============================================================ -->](https://github.com/kshitijsrivastavaa/DocQA-AI/issues/1#issue-4401186302)
 
 <div align="center">
   <img src="./assets/demo.gif" alt="DocQA Demo" width="800"/>
