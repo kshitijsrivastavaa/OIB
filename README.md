@@ -1,8 +1,6 @@
 # 🧠 DocQA — AI-Powered Document & Multimedia Q&A
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=180&section=header&text=DocQA%20AI&fontSize=50&fontColor=c0caf5&fontAlignY=38&desc=AI-Powered%20Document%20%26%20Multimedia%20Q%26A&descAlignY=58&descColor=a9b1d6" />
-
 <p align="center">
   <a href="https://docqa-ai.vercel.app">
     <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel" />
