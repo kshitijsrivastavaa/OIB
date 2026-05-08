@@ -1,292 +1,233 @@
-# 🧠 DocQA — AI-Powered Document & Multimedia Q&A
-<div align="center">
+# ⚡ SparkChat
 
-<p align="center">
-  <a href="https://docqa-ai.vercel.app">
-    <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://docqa-ai-production.up.railway.app/health">
-    <img src="https://img.shields.io/badge/Backend-API-green?style=for-the-badge&logo=fastapi" />
-  </a>
-  <a href="https://docqa-ai-production.up.railway.app/docs">
-    <img src="https://img.shields.io/badge/Swagger-Docs-orange?style=for-the-badge&logo=swagger" />
-  </a>
-  <a href="https://github.com/kshitijsrivastavaa/DocQA-AI">
-    <img src="https://img.shields.io/github/stars/kshitijsrivastavaa/DocQA-AI?style=for-the-badge" />
-  </a>
-</p>
+> **Random 5-minute sparks with strangers worldwide.**
+> Text · Video · Voice · 5 Fun Modes · Real-time Matching
 
-</div>
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-sparkchat--app.vercel.app-orange?style=for-the-badge)](https://sparkchat-app.vercel.app)
+[![Backend](https://img.shields.io/badge/⚙️_Backend-sparkchat--app.onrender.com-blueviolet?style=for-the-badge)](https://sparkchat-app.onrender.com/health)
+[![Next.js](https://img.shields.io/badge/Next.js-14.2-black?style=for-the-badge&logo=next.js)](https://nextjs.org)
+[![Socket.io](https://img.shields.io/badge/Socket.io-4.7-white?style=for-the-badge&logo=socket.io)](https://socket.io)
+[![Supabase](https://img.shields.io/badge/Supabase-Database-3ECF8E?style=for-the-badge&logo=supabase)](https://supabase.com)
 
 ---
 
-## 🎬 Demo 
-
-<div align="center">
-  <a href="https://github.com/kshitijsrivastavaa/DocQA-AI/issues/1#issue-4401186302">
-    🎬 Watch Demo Video
-  </a>
-</div>
-
-## 📸 Screenshots
-
-<!-- ============================================================
-     HOW TO ADD SCREENSHOTS:
-     1. Create a folder called "assets" inside your repo
-     2. Take screenshots of each feature below
-     3. Name them as shown and upload to the assets folder
-     4. The images will auto-appear here!
-     ============================================================ -->
-
-### 🏠 Home — Upload Screen
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kshitijsrivastavaa/DocQA-AI/refs/heads/main/pictures/Landing_Page.png" alt="Home Screen" width="800"/>
-</div>
+<!-- Add your hero screenshot/demo GIF here -->
+<!-- ![SparkChat Demo](./demo.gif) -->
 
 ---
 
-### 💬 AI Chat Interface
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kshitijsrivastavaa/DocQA-AI/main/pictures/Chat_Interaction.png" alt="Chat Interface" width="800"/>
-</div>
+## 🔥 What is SparkChat?
 
----
+SparkChat connects you with a random stranger for exactly **5 minutes** — no followers, no algorithms, no pressure. Just real, spontaneous conversation.
 
-### 🎬 Video Q&A with Timestamps
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kshitijsrivastavaa/DocQA-AI/refs/heads/main/pictures/Timestamp.png" alt="Video Q&A" width="800"/>
-</div>
-
----
-
-### 🎧 Features
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kshitijsrivastavaa/DocQA-AI/refs/heads/main/pictures/Features.png" alt="Audio Transcription" width="800"/>
-</div>
-
----
-
-## 🚀 About
-
-🧠 **DocQA** is a full-stack AI-powered application that allows users to upload **PDFs, audio, and video files** and interact with them using natural language queries.
-
-💡 Instead of manually reading or watching content, users can simply **ask questions and get instant AI-generated answers.**
-
----
-
-## ✨ Key Highlights
-
-- 📄 **PDF Understanding** — Extract and query document content
-- 🎧 **Audio/Video Transcription** — Powered by Groq Whisper
-- 💬 **AI Chat Interface** — Ask anything about your content
-- 🔍 **Semantic Search (FAISS)** — Smart retrieval of relevant chunks
-- ⚡ **Real-time Streaming Responses**
-- 🧠 **Automatic Summarization**
-- ⏱️ **Timestamp Jump** — Click timestamps to seek in media player
-- 🐳 **Fully Dockerized** with GitHub Actions CI/CD
-
----
-
-## 🔥 Live Links
-
-- 🌐 **Frontend:** https://docqa-ai.vercel.app
-- ⚙️ **Backend API:** https://docqa-ai-production.up.railway.app
-- 📚 **API Docs:** https://docqa-ai-production.up.railway.app/docs
-
----
-
-## 🛠️ Tech Stack
-
-| Layer | Technology |
-|-------|-----------|
-| **Frontend** | React 18 (Vite), TanStack Query, React Router |
-| **Backend** | Python 3.11, FastAPI, SQLAlchemy (async) |
-| **AI / ML** | Groq LLM, Groq Whisper, LangChain, FAISS |
-| **Database** | PostgreSQL |
-| **DevOps** | Docker, Docker Compose, GitHub Actions CI/CD |
-| **Deployment** | Vercel (Frontend) + Railway (Backend) |
+Pick your vibe, get matched instantly, and spark something new.
 
 ---
 
 ## ✨ Features
 
-| Feature | Details |
-|---------|---------|
-| 📄 PDF Q&A | Extract and semantically search document content |
-| 🎵 Audio Q&A | Transcribe with Whisper + ask questions |
-| 🎬 Video Q&A | Transcribe + timestamp extraction + playback |
-| 🔍 Semantic Search | FAISS vector similarity search |
-| 💬 Streaming Chat | Real-time streaming responses via SSE |
-| ⏱ Timestamp Jump | Click any timestamp to seek in the media player |
-| 📝 Auto Summary | Auto-generated content summaries |
+| Feature | Description |
+|---|---|
+| ⚡ **Instant Matching** | Real-time socket-based matchmaking |
+| 💬 **Text Chat** | Live messaging with typing indicators |
+| 📹 **Video Chat** | Peer-to-peer WebRTC video calls |
+| 🎙️ **Voice Chat** | Crystal-clear audio calls |
+| 🎭 **5 Fun Modes** | Debate · Roast · Quiz · Opinion · Random |
+| ⏱️ **5-Min Timer** | Countdown keeps convos sharp |
+| 😂 **Emoji Reactions** | React in real time |
+| 🌍 **180+ Countries** | Match by country & language |
+| ⭐ **Star Ratings** | Rate your spark after each chat |
+| 🚩 **Report System** | Safe, moderated platform |
+| 👤 **Guest Mode** | No signup needed to try |
+| 💎 **Premium Tier** | Razorpay-powered subscription |
 
 ---
 
-## 🏗️ Architecture
+## 🛠️ Tech Stack
 
 ```
-┌────────────────────────────────────────────────────────┐
-│                     Docker Compose                      │
-│                                                        │
-│   ┌──────────────┐    ┌─────────────────────────────┐ │
-│   │   Frontend   │    │         Backend              │ │
-│   │   React +    │───▶│  FastAPI + LangChain         │ │
-│   │   Vite       │    │  + Groq + Whisper            │ │
-│   │   Port: 3000 │    │  Port: 8000                  │ │
-│   └──────────────┘    └──────────────┬──────────────┘ │
-│                                      │                  │
-│              ┌───────────────────────┤                  │
-│              ▼                       ▼                  │
-│   ┌────────────────┐    ┌─────────────────────────┐   │
-│   │  PostgreSQL    │    │  FAISS Index            │   │
-│   │  (Metadata +   │    │  (Vector Embeddings)    │   │
-│   │   Chat History)│    │  text-embedding-3-small  │   │
-│   └────────────────┘    └─────────────────────────┘   │
-└────────────────────────────────────────────────────────┘
+Frontend    →  Next.js 14 · React 18 · Socket.io Client · WebRTC
+Backend     →  Node.js · Express · Socket.io · JWT
+Database    →  Supabase (PostgreSQL) · Row Level Security
+Auth        →  Custom JWT + Supabase Auth
+Payments    →  Razorpay
+Deploy      →  Vercel (Frontend) · Render (Backend)
 ```
-
----
-
-## 🚀 Quick Start
-
-### Prerequisites
-- Docker & Docker Compose
-- OpenAI API key ([get one here](https://platform.openai.com/api-keys))
-
-### 1. Clone & Configure
-
-```bash
-git clone https://github.com/kshitijsrivastavaa/DocQA-AI.git
-cd DocQA-AI
-cp .env.example .env
-# Edit .env and add your OPENAI_API_KEY
-```
-
-### 2. Run with Docker Compose
-
-```bash
-docker compose up --build
-```
-
-- **Frontend:** http://localhost:3000
-- **API Docs:** http://localhost:8000/docs
-
-### 3. Local Development (without Docker)
-
-**Backend:**
-```bash
-cd backend
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-uvicorn app.main:app --reload --port 8000
-```
-
-**Frontend:**
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
----
-
-## 📡 API Endpoints
-
-### Documents
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| `POST` | `/api/documents/upload` | Upload PDF/audio/video |
-| `GET` | `/api/documents/` | List all documents |
-| `GET` | `/api/documents/{id}` | Get document + summary |
-| `DELETE` | `/api/documents/{id}` | Delete a document |
-
-### Chat
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| `POST` | `/api/chat/sessions` | Create chat session |
-| `GET` | `/api/chat/sessions/{id}/messages` | Get chat history |
-| `POST` | `/api/chat/sessions/{id}/stream` | Stream chat (SSE) |
-
-### Media
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| `GET` | `/api/media/{id}/stream` | Stream audio/video |
-| `GET` | `/api/media/{id}/segments` | Get transcript + timestamps |
-
----
-
-## 🧪 Testing
-
-```bash
-cd backend
-pytest --cov=app --cov-report=term-missing --cov-fail-under=95 -v
-```
-
-Coverage target: **95%+** ✅
-
----
-
-## 💡 Design Decisions
-
-- **Local Whisper** instead of Whisper API → Free transcription, no per-minute costs
-- **FAISS** instead of Pinecone → Free vector search, runs in-process
-- **PostgreSQL + SQLAlchemy async** → Production-grade, handles concurrent requests
-- **SSE streaming** → Real-time chat feel without WebSocket complexity
-- **Background tasks** → FastAPI BackgroundTasks for non-blocking file processing
-
----
-
-## 🎯 Bonus Features
-
-- ✅ FAISS vector search (semantic similarity)
-- ✅ Real-time streaming responses (SSE)
-- ✅ Timestamp extraction for audio/video
-- ✅ One-click timestamp playback
-- ✅ Docker Compose multi-container
-- ✅ GitHub Actions CI/CD with 95%+ coverage gate
 
 ---
 
 ## 📁 Project Structure
 
 ```
-docqa/
-├── backend/
-│   ├── app/
-│   │   ├── api/            # FastAPI route handlers
-│   │   │   ├── documents.py
-│   │   │   ├── chat.py
-│   │   │   └── media.py
-│   │   ├── core/           # Config, database
-│   │   ├── models/         # SQLAlchemy models
-│   │   ├── services/       # Business logic
-│   │   │   ├── document_service.py  # PDF/Whisper/FAISS
-│   │   │   └── chat_service.py      # OpenAI chat + streaming
-│   │   └── tests/          # Test suite (95%+ coverage)
-│   ├── requirements.txt
-│   ├── Dockerfile
-│   └── pytest.ini
-├── frontend/
-│   ├── src/
-│   │   ├── components/     # Layout, shared components
-│   │   ├── pages/          # Home (upload), DocumentView (chat)
-│   │   └── services/       # API client
-│   ├── package.json
-│   └── Dockerfile
-├── .github/
-│   └── workflows/
-│       └── ci.yml          # GitHub Actions CI/CD
-├── docker-compose.yml
-└── README.md
+sparkchat/
+├── app/
+│   ├── api/
+│   │   ├── payment/
+│   │   │   ├── create-order/     ← Razorpay order creation
+│   │   │   └── verify/           ← Payment verification
+│   │   └── online-count/         ← Live user counter
+│   ├── components/
+│   │   ├── Landing.js            ← Home screen
+│   │   ├── Auth.js               ← Login + Signup
+│   │   ├── Setup.js              ← Chat preferences
+│   │   ├── Waiting.js            ← Real-time matchmaking
+│   │   ├── Chat.js               ← Text + Video + Voice
+│   │   ├── EndScreen.js          ← Rating + Payment
+│   │   └── Profile.js            ← User stats
+│   ├── page.js                   ← App router
+│   ├── layout.js                 ← Root layout
+│   └── globals.css               ← Dark theme
+├── hooks/
+│   ├── useSocket.js              ← Socket.io client
+│   └── useWebRTC.js              ← WebRTC peer connections
+├── lib/
+│   ├── supabase.js               ← DB client + helpers
+│   └── AuthContext.js            ← Auth provider
+├── server/
+│   └── index.js                  ← Express + Socket.io backend
+├── database.sql                  ← Full DB schema
+└── .env.example                  ← Environment template
 ```
 
 ---
 
-## 📝 License
+## 🚀 Run Locally
 
-MIT
+### Prerequisites
+- Node.js 18+
+- A [Supabase](https://supabase.com) account (free)
+
+### 1. Clone & Install
+
+```bash
+git clone https://github.com/kshitijsrivastavaa/sparkchat-app.git
+cd sparkchat-app
+npm install
+```
+
+### 2. Set Up Supabase
+
+1. Create a new project at [supabase.com](https://supabase.com)
+2. Go to **SQL Editor** → paste contents of `database.sql` → **Run**
+3. Go to **Settings → API** → copy your keys
+
+### 3. Configure Environment
+
+```bash
+cp .env.example .env.local
+```
+
+Fill in `.env.local`:
+
+```env
+NEXT_PUBLIC_SUPABASE_URL=https://xxxx.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJ...
+SUPABASE_SERVICE_ROLE_KEY=eyJ...
+JWT_SECRET=your_32_char_secret_here
+RAZORPAY_KEY_ID=rzp_test_xxx         # optional
+RAZORPAY_KEY_SECRET=xxx              # optional
+NEXT_PUBLIC_RAZORPAY_KEY_ID=rzp_test_xxx
+SOCKET_PORT=3001
+NEXT_PUBLIC_SOCKET_URL=http://localhost:3001
+NEXT_PUBLIC_APP_URL=http://localhost:3000
+```
+
+### 4. Run
+
+Open **two terminals:**
+
+```bash
+# Terminal 1 — Backend
+node server/index.js
+# → SparkChat server running on port 3001
+
+# Terminal 2 — Frontend
+npm run dev
+# → http://localhost:3000
+```
+
+Open [http://localhost:3000](http://localhost:3000) — you're live! 🎉
+
+---
+
+## ☁️ Deploy
+
+### Frontend → Vercel
+
+```bash
+npm install -g vercel
+vercel
+```
+
+Add all `.env.local` variables in Vercel → **Settings → Environment Variables**.
+
+### Backend → Render
+
+1. Go to [render.com](https://render.com) → **New Web Service**
+2. Connect your GitHub repo
+3. Set:
+   - **Start Command:** `node server/index.js`
+4. Add environment variables
+5. Deploy!
+
+After deploying, update in Vercel:
+```
+NEXT_PUBLIC_SOCKET_URL=https://your-app.onrender.com
+```
+
+---
+
+## 💰 Razorpay Setup
+
+1. Create account at [razorpay.com](https://razorpay.com)
+2. Complete KYC (PAN + bank account)
+3. Go to **Settings → API Keys**
+4. Copy keys into `.env.local`
+
+---
+
+## 🗄️ Database Schema
+
+| Table | Purpose |
+|---|---|
+| `users` | Profiles, stats, premium status |
+| `chat_sessions` | Match history & metadata |
+| `messages` | Chat message logs |
+| `ratings` | Post-chat star ratings |
+| `reports` | User report system |
+| `payments` | Razorpay transaction records |
+| `online_users` | Real-time presence tracking |
+
+---
+
+## 🔮 Roadmap
+
+- [ ] Mobile app (React Native)
+- [ ] Interest-based matching
+- [ ] Language translation in chat
+- [ ] Group spark rooms (3-5 people)
+- [ ] Spark history & favourites
+- [ ] AI-powered conversation starters
+- [ ] Verified student mode
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome! For major changes, open an issue first.
+
+---
+
+## 📄 License
+
+MIT © [Kshitij Srivastava](https://github.com/kshitijsrivastavaa)
+
+---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=100&section=footer"/>
+
+Built with ⚡ in India 🇮🇳
+
+**[sparkchat-app.vercel.app](https://sparkchat-app.vercel.app)**
+
 </div>
