@@ -52,6 +52,25 @@
 
 ---
 
+## ✨ Live Output Preview
+
+<div align="center">
+
+| 🖼️ Original Reef Image | 🔬 AI Segmentation Overlay |
+|:---:|:---:|
+| Raw underwater coral photograph | Pink/red mask highlighting bleached & stressed coral regions |
+| ↓ | ↓ |
+| **Input** | **OpenCV HSV Pipeline Output** |
+
+</div>
+
+**Each analysis produces:**
+- 🔴 Color overlay showing exact damaged reef zones
+- 📈 `Affected Area: X.XX%` — precise numerical damage score
+- 🥧 Interactive pie chart — hover to see `Healthy: XX.XX` and `Affected: XX.XX`
+
+---
+
 ## 🌍 Why This Project Exists
 
 Coral reefs cover **less than 1% of the ocean floor** yet support **over 25% of all marine species**. They are collapsing at an unprecedented rate:
