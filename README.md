@@ -1,305 +1,437 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF5C1A&height=200&section=header&text=⚡%20SparkChat&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Random%205-minute%20sparks%20with%20strangers%20worldwide&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7377,50:14a085,100:00d4aa&height=200&section=header&text=CoralSight&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=AI%20Coral%20Reef%20Health%20Assessment&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5C1A&center=true&vCenter=true&width=600&lines=Text+%C2%B7+Video+%C2%B7+Voice+Chat;5+Fun+Modes+%C2%B7+5-Min+Timer;Real-time+Matching+%C2%B7+180%2B+Countries;Built+with+%E2%9D%A4%EF%B8%8F+in+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Coral+Reef+Bleaching+Detection+%F0%9F%AA%B8;Real-Time+AI+Segmentation+Overlay;Computer+Vision+%2B+Deep+Learning;Protecting+Marine+Ecosystems+with+AI)](https://git.io/typing-svg)
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-sparkchat--app.vercel.app-FF5C1A?style=for-the-badge)](https://sparkchat-app.vercel.app)
-[![API](https://img.shields.io/badge/⚡%20API%20Health-Online-22c55e?style=for-the-badge)](https://sparkchat-app.onrender.com/health)
-[![GitHub Stars](https://img.shields.io/github/stars/kshitijsrivastavaa/sparkchat-app?style=for-the-badge&color=FF5C1A)](https://github.com/kshitijsrivastavaa/sparkchat-app/stargazers)
-
-<br/>
-
-![Next.js](https://img.shields.io/badge/Next.js%2014-black?style=flat-square&logo=next.js)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay)
-
-</div>
-
----
-
-## 🎬 Demo
-
-<!-- ADD YOUR SCREENSHOT BELOW — replace the URL -->
-<div align="center">
-<img src="./screenshots/preview.png" alt="SparkChat Preview" width="80%" style="border-radius:12px"/>
+<a href="https://shiny-bunny-ba12ea.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-Netlify-00C7B7?style=for-the-badge&labelColor=0d7377" />
+</a>
+<a href="https://github.com/user-attachments/assets/629f8b71-8537-4b70-a256-738d971ee59c">
+  <img src="https://img.shields.io/badge/🎬_Demo_Video-Watch_Now-FF4757?style=for-the-badge&labelColor=c0392b" />
+</a>
+<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/React-Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TensorFlow-Keras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-API-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 
 <br/><br/>
 
-<!-- ADD YOUR DEMO VIDEO BELOW — replace YOUR_VIDEO_ID -->
-[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+> **An AI-powered full-stack system for coral reef bleaching detection, damage quantification, and marine ecosystem monitoring — combining real-time computer vision with a deep learning segmentation architecture.**
+
+<br/>
 
 </div>
 
 ---
 
-## ✨ What is SparkChat?
+## 🎬 Demo Video
 
-> **SparkChat** drops you into a random 5-minute conversation with a stranger from anywhere in the world — no algorithm, no feed, no scrolling. Just a raw, real human spark. ⚡
+<div align="center">
 
-You pick your vibe (Text, Video, or Voice), choose a fun mode, and you're matched instantly. When the timer hits zero, the spark ends — and you carry it with you.
+<a href="https://github.com/user-attachments/assets/629f8b71-8537-4b70-a256-738d971ee59c">
+  <img src="https://img.shields.io/badge/▶️_Watch_Full_Demo-Click_Here-FF4757?style=for-the-badge&labelColor=c0392b&logoColor=white" />
+</a>
 
----
+</div>
 
-## 🎭 5 Fun Modes
+<br/>
 
-```
-🗣️  DEBATE    →  Pick a side. Argue it.
-🔥  ROAST     →  Friendly burns only.
-🧠  QUIZ      →  Race to the right answer.
-💬  OPINION   →  Hot takes, unpopular opinions.
-🎲  RANDOM    →  Anything goes.
-```
+The demo covers the full working pipeline end to end:
 
----
-
-## 🚀 Features
-
-<table>
-<tr>
-<td>
-
-**Core**
-- ⚡ Real-time socket matchmaking
-- 💬 Text chat with typing indicators
-- 📹 P2P WebRTC video (no relay)
-- 🎙️ WebRTC voice calls
-- ⏱️ 5-minute countdown timer
-
-</td>
-<td>
-
-**Social**
-- 🌍 180+ country matching
-- 🚩 Report & moderation system
-- ⭐ Post-chat star ratings
-- 👤 Guest mode (no signup)
-- 👥 User profiles & stats
-
-</td>
-<td>
-
-**Platform**
-- 💎 Premium tier (Razorpay)
-- 🌙 Full dark theme
-- 🔐 JWT auth
-- 📊 Live online counter
-- 🇮🇳 Made in India
-
-</td>
-</tr>
-</table>
+| Step | What Happens |
+|---|---|
+| 📤 Upload | Select any underwater coral reef photograph from your machine |
+| 🎨 Overlay | Live pink/red HSV segmentation mask rendered over the original image |
+| 📊 Score | Coral damage percentage calculated and shown instantly |
+| 🥧 Chart | Interactive pie chart appears with hover tooltips (Healthy vs. Affected) |
+| 🔁 Multi-image | Multiple reef images tested — results ranging from **7.25% to 40.39%** affected area |
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Live Output Preview
 
-```
-┌─────────────────────────────────────────────────────┐
-│                    SPARKCHAT STACK                  │
-├──────────────────┬──────────────────────────────────┤
-│   Frontend       │  Next.js 14 · React 18           │
-│   Real-time      │  Socket.io · WebRTC              │
-│   Backend        │  Node.js · Express               │
-│   Database       │  Supabase · PostgreSQL           │
-│   Auth           │  JWT                             │
-│   Payments       │  Razorpay                        │
-│   Deploy         │  Vercel + Render / Railway       │
-└──────────────────┴──────────────────────────────────┘
-```
+<div align="center">
 
----
+| 🖼️ Original Reef Image | 🔬 AI Segmentation Overlay |
+|:---:|:---:|
+| Raw underwater coral photograph | Pink/red mask highlighting bleached & stressed coral regions |
+| ↓ | ↓ |
+| **Input** | **OpenCV HSV Pipeline Output** |
 
-## 📁 Project Structure
+</div>
 
-```
-sparkchat/
-├── server/
-│   └── index.js               ← Socket.io + Express backend
-├── app/
-│   ├── page.js                ← Main app router
-│   ├── layout.js              ← Root layout
-│   ├── globals.css            ← Dark theme
-│   ├── api/
-│   │   ├── payment/
-│   │   │   ├── create-order/route.js
-│   │   │   └── verify/route.js
-│   │   └── online-count/route.js
-│   └── components/
-│       ├── Landing.js         ← Home screen
-│       ├── Auth.js            ← Login + Signup (2 steps)
-│       ├── Setup.js           ← Chat preferences
-│       ├── Waiting.js         ← Real socket matching
-│       ├── Chat.js            ← Text + Video + Voice
-│       ├── EndScreen.js       ← Rating + Razorpay payment
-│       └── Profile.js         ← User profile + stats
-├── hooks/
-│   ├── useSocket.js           ← Socket.io client hook
-│   └── useWebRTC.js           ← WebRTC video/voice hook
-├── lib/
-│   ├── supabase.js            ← Supabase client + auth
-│   └── AuthContext.js         ← React auth provider
-├── database.sql               ← Run in Supabase SQL Editor
-├── .env.example               ← Copy → .env.local
-└── package.json
-```
+**Each analysis produces:**
+- 🔴 Color overlay showing exact damaged reef zones
+- 📈 `Affected Area: X.XX%` — precise numerical damage score
+- 🥧 Interactive pie chart — hover to see `Healthy: XX.XX` and `Affected: XX.XX`
 
 ---
 
-## ⚙️ Local Setup
-
-### 1️⃣ Clone & Install
-
-```bash
-git clone https://github.com/kshitijsrivastavaa/sparkchat-app.git
-cd sparkchat-app
-npm install
-```
-
-### 2️⃣ Set Up Supabase (Free)
-
-1. Go to [supabase.com](https://supabase.com) → Create free account
-2. New Project → SQL Editor → paste `database.sql` → **Run**
-3. Project Settings → API → copy your URL, anon key, service_role key
-
-### 3️⃣ Configure `.env.local`
-
-```bash
-cp .env.example .env.local
-```
-
-```env
-NEXT_PUBLIC_SUPABASE_URL=https://xxxx.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJxxx...
-SUPABASE_SERVICE_ROLE_KEY=eyJxxx...
-JWT_SECRET=any_long_random_string_here_32chars
-RAZORPAY_KEY_ID=rzp_test_xxx          # optional for now
-RAZORPAY_KEY_SECRET=xxx               # optional for now
-NEXT_PUBLIC_RAZORPAY_KEY_ID=rzp_test_xxx
-SOCKET_PORT=3001
-NEXT_PUBLIC_SOCKET_URL=http://localhost:3001
-NEXT_PUBLIC_APP_URL=http://localhost:3000
-```
-
-### 4️⃣ Run Both Servers
-
-```bash
-# Terminal 1 — Backend
-node server/index.js
-# 🚀 SparkChat server running on port 3001
-
-# Terminal 2 — Frontend
-npm run dev
-# → open http://localhost:3000 🎉
-```
-
----
-
-## 🌐 Deployment
-
-### Frontend → Vercel
-
-```bash
-npm install -g vercel && vercel
-# Add all env vars in Vercel → Settings → Environment Variables
-```
-
-### Backend → Railway / Render
-
-| Platform | Plan | Setup |
-|---|---|---|
-| Railway.app | Free tier | Connect GitHub → deploy `server/index.js` |
-| Render.com | Free tier | Web Service → Start: `node server/index.js` |
-| DigitalOcean | ₹500/mo | Full control |
-
-After deploying backend, update in Vercel:
-```env
-NEXT_PUBLIC_SOCKET_URL=https://your-backend-url.railway.app
-```
-
----
-
-## 💰 Razorpay Setup
-
-1. [razorpay.com](https://razorpay.com) → Create account → Complete KYC
-2. Settings → API Keys → copy Key ID + Secret
-3. Paste into `.env.local` — payments work automatically ✅
-
----
-
-## ✅ Everything That Works
+## 🌍 Why This Project Exists
 
 <details>
-<summary><b>Click to expand full feature checklist</b></summary>
+<summary><b>🪸 Click to read — The Coral Crisis</b></summary>
 
-| Feature | Status |
+<br/>
+
+Coral reefs cover **less than 1% of the ocean floor** yet support **over 25% of all marine species**. They are collapsing at an unprecedented rate due to:
+
+| Threat | Impact |
 |---|---|
-| Landing page with live counter | ✅ |
-| User signup (2-step form) | ✅ |
-| User login | ✅ |
-| Guest mode (no login) | ✅ |
-| Chat type selection (text/video/voice) | ✅ |
-| Fun mode selection (5 modes) | ✅ |
-| Match preferences + country + language | ✅ |
-| Real-time socket matching | ✅ |
-| Text chat (real WebSocket) | ✅ |
-| Video chat (real WebRTC) | ✅ |
-| Voice chat (real WebRTC audio) | ✅ |
-| Typing indicator | ✅ |
-| Emoji reactions | ✅ |
-| 5-minute countdown timer | ✅ |
-| Report user system | ✅ |
-| Star rating after chat | ✅ |
-| User profile + stats | ✅ |
-| Razorpay payment integration | ✅ |
-| Premium user detection | ✅ |
-| Dark theme throughout | ✅ |
+| 🌡️ Rising ocean temperatures | Mass bleaching events, coral death |
+| 🧪 Ocean acidification | Dissolves coral calcium carbonate structures |
+| 🏭 Marine pollution & runoff | Smothers coral, blocks photosynthesis |
+| 🦠 Coral disease outbreaks | Rapid colony die-offs |
+| 🌿 Algae overgrowth | Outcompetes healthy coral for space |
+
+Traditional reef monitoring requires **trained divers** performing **manual underwater surveys** — expensive, slow, and impossible to scale globally.
+
+**CoralSight automates reef health assessment from a single photograph.** One image. Seconds. A damage report.
 
 </details>
 
 ---
 
-## 🗺️ Roadmap
+## ⚡ Features
 
-- [ ] 📱 Mobile app (React Native)
-- [ ] 🎯 Interest-based matching
-- [ ] 🌐 In-chat language translation
-- [ ] 👥 Group spark rooms (3–5 people)
-- [ ] 📚 Spark history & favourites
-- [ ] 🤖 AI-powered conversation starters
-- [ ] 🎓 Verified student / college mode
+<details open>
+<summary><b>🔬 Real-Time CV Segmentation Pipeline — LIVE & WORKING</b></summary>
+
+<br/>
+
+Upload any coral reef image → get back a segmentation overlay and damage score in seconds.
+
+**Pipeline steps:**
+1. Image received by Flask API and preprocessed
+2. Converted from **RGB → HSV** color space
+3. Pixels with **low saturation + high brightness** are flagged (optical signature of bleached coral)
+4. **Morphological filtering** (dilation + erosion) removes noise and sharpens mask edges
+5. Binary segmentation mask generated over affected zones
+6. **Damage percentage** calculated from masked pixel ratio
+7. **Colored overlay rendered** on original image via OpenCV
+8. Results returned as JSON → React frontend renders instantly
+
+</details>
+
+<details>
+<summary><b>📊 Coral Damage Quantification — LIVE & WORKING</b></summary>
+
+<br/>
+
+Every image produces an exact affected area score:
+
+| Image Tested | Affected Area | Health Status |
+|---|---|---|
+| `coral 3img.jpeg` | **40.39%** | 🔴 Significant bleaching — high stress |
+| `coral2pic.jpeg` | **21.25%** | 🟡 Early-stage bleaching detected |
+| `coral img 4.jpeg` | **7.25%** | 🟢 Mostly healthy, minor stress zones |
+
+</details>
+
+<details>
+<summary><b>🥧 Interactive Damage Distribution Chart — LIVE & WORKING</b></summary>
+
+<br/>
+
+- Pie chart renders the **Healthy vs. Affected** split per image
+- **Hover tooltips** show exact values (e.g. `Healthy: 92.75`, `Affected: 7.25`)
+- Color-coded: green = healthy, red = affected
+- Powered by a JavaScript charting library (Recharts / Chart.js)
+
+</details>
+
+<details>
+<summary><b>🖼️ Side-by-Side Comparison View — LIVE & WORKING</b></summary>
+
+<br/>
+
+- **Left panel:** original uploaded reef photograph
+- **Right panel:** AI segmentation overlay with bleaching zones highlighted in pink/red
+- Immediate visual validation of what the algorithm detected
+- Overlay is proportionally sized and aligned to the original
+
+</details>
+
+<details>
+<summary><b>🤖 U-Net Deep Learning Architecture — IMPLEMENTED & TRAINING-READY</b></summary>
+
+<br/>
+
+A full **U-Net CNN** for semantic segmentation is implemented in TensorFlow/Keras:
+
+```
+Input (224 × 224 × 3 RGB)
+        ↓
+┌─── Encoder (Contracting Path) ───┐
+│  Conv2D → BN → ReLU              │
+│  MaxPool2D                        │  × 4 levels
+│  (skip connection saved) ─────────┼──────────┐
+└──────────────────────────────────┘           │
+        ↓                                      │
+   Bottleneck (deepest features)               │
+        ↓                                      │
+┌─── Decoder (Expanding Path) ─────┐           │
+│  UpSampling2D                    │           │
+│  Concat ← skip connection ────────┼───────────┘
+│  Conv2D → BN → ReLU              │  × 4 levels
+└──────────────────────────────────┘
+        ↓
+Output: Pixel-wise segmentation map
+(4 classes: Healthy / Bleached / Diseased / Algae)
+```
+
+**Why U-Net?** Skip connections preserve spatial detail lost during downsampling — critical for precise reef boundary detection. Used in medical imaging, satellite analysis, and environmental monitoring with excellent results on limited datasets.
+
+</details>
 
 ---
 
-## 🗄️ Database Schema
+## 🏗️ System Architecture
 
-| Table | Purpose |
+```
+                    ┌─────────────────────────────┐
+                    │     React + Vite Frontend    │
+                    │  Upload · View · Chart · UI  │
+                    └──────────────┬──────────────┘
+                                   │ HTTP POST (multipart/form-data)
+                    ┌──────────────▼──────────────┐
+                    │       Flask REST API          │
+                    │         server.py             │
+                    └──────────────┬──────────────┘
+                                   │
+                    ┌──────────────▼──────────────┐
+                    │   Image Processing Pipeline  │
+                    │  coralsight/backend/ai/       │
+                    │  segmentation/service.py      │
+                    └──────────────┬──────────────┘
+                         ┌─────────┴─────────┐
+                         ▼                   ▼
+              ┌─────────────────┐   ┌─────────────────┐
+              │ segment.py      │   │ unet.py          │
+              │ HSV Segmentation│   │ U-Net CNN        │
+              │ (Active)        │   │ (Architecture)   │
+              └────────┬────────┘   └─────────────────┘
+                       │
+              ┌────────▼────────┐
+              │  Mask + Overlay  │
+              │  Generation      │
+              │  (OpenCV/NumPy)  │
+              └────────┬────────┘
+                       │ JSON response
+                    ┌──▼──────────────────────────┐
+                    │  Frontend renders:           │
+                    │  • Side-by-side images       │
+                    │  • Damage % score            │
+                    │  • Interactive pie chart     │
+                    └─────────────────────────────┘
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<details>
+<summary><b>View full stack breakdown</b></summary>
+
+<br/>
+
+**Frontend**
+| Tech | Role |
 |---|---|
-| `users` | Profiles, stats, premium status, reputation |
-| `chat_sessions` | Match history, type, mode, duration |
-| `messages` | Chat message logs per session |
-| `ratings` | Post-chat 1–5 star ratings |
-| `reports` | User report + moderation system |
-| `payments` | Razorpay transaction records |
-| `online_users` | Real-time presence & socket tracking |
+| React + Vite | UI framework, fast HMR dev server |
+| Tailwind CSS | Utility-first styling |
+| Chart.js / Recharts | Interactive pie chart with hover tooltips |
+| JavaScript ES6+ | Application logic |
+
+**Backend**
+| Tech | Role |
+|---|---|
+| Python 3.x | Core runtime |
+| Flask | Lightweight REST API server |
+| Flask-CORS | Cross-origin request handling for dev |
+
+**Computer Vision**
+| Tech | Role |
+|---|---|
+| OpenCV | Color space conversion, morphological ops, overlay rendering |
+| NumPy | Array operations, mask arithmetic |
+
+**Deep Learning**
+| Tech | Role |
+|---|---|
+| TensorFlow | Deep learning framework |
+| Keras | U-Net architecture definition, training API |
+
+</details>
+
+---
+
+## 📂 Project Structure
+
+<details>
+<summary><b>View file tree</b></summary>
+
+<br/>
+
+```
+CoralReefVisionAI/
+│
+├── coralsight-main/
+│   └── backend/
+│       └── ai/
+│           └── segmentation/
+│               ├── service.py       ← Segmentation orchestration
+│               ├── unet.py          ← U-Net CNN (TF/Keras)
+│               └── segment.py       ← HSV segmentation algorithm
+│
+├── src/
+│   ├── App.jsx                      ← Main React component
+│   ├── main.jsx                     ← React entry point
+│   └── index.css                    ← Global styles (Tailwind)
+│
+├── models/                          ← Model weights (training output)
+├── scripts/                         ← Utility & helper scripts
+│
+├── server.py                        ← Flask API server
+├── index.html                       ← Vite HTML entry
+├── package.json                     ← Node dependencies
+├── vite.config.js                   ← Vite build config
+├── tailwind.config.js               ← Tailwind config
+└── Readme.md
+```
+
+</details>
+
+---
+
+## 🚀 Getting Started
+
+<details>
+<summary><b>📦 Installation & Setup</b></summary>
+
+<br/>
+
+**1. Clone the repository**
+```bash
+git clone https://github.com/kshitijsrivastavaa/CoralReefVisionAI.git
+cd CoralReefVisionAI
+```
+
+**2. Install frontend dependencies**
+```bash
+npm install
+```
+
+**3. Install backend dependencies**
+```bash
+pip install flask flask-cors opencv-python numpy tensorflow
+```
+
+**4. Start the Flask backend**
+```bash
+python server.py
+```
+
+**5. Start the React frontend** (new terminal)
+```bash
+npm run dev
+```
+
+**6. Open in browser**
+```
+http://localhost:5173
+```
+
+</details>
+
+<details>
+<summary><b>🌐 Deployment</b></summary>
+
+<br/>
+
+**Frontend** → Deployed on Netlify
+🔗 [https://shiny-bunny-ba12ea.netlify.app/](https://shiny-bunny-ba12ea.netlify.app/)
+
+> ⚠️ The Netlify deployment runs the **frontend only**. The Flask image processing backend must be run locally for full segmentation functionality.
+
+**Build for production:**
+```bash
+npm run build
+# Output in /dist directory
+```
+
+</details>
+
+---
+
+## 📚 Dataset Sources
+
+<details>
+<summary><b>View datasets used & planned for U-Net training</b></summary>
+
+<br/>
+
+| Dataset | Description | Use |
+|---|---|---|
+| [CoralNet](https://coralnet.ucsd.edu/) | Point annotation platform for benthic images | U-Net training labels |
+| [ReefBase](http://www.reefbase.org/) | Global coral reef monitoring database | Diverse reef imagery |
+| [NOAA Coral Reef Watch](https://coralreefwatch.noaa.gov/) | Satellite-derived reef monitoring data | Ground truth + validation |
+
+</details>
+
+---
+
+## 🔮 Roadmap
+
+- [x] HSV baseline segmentation pipeline
+- [x] Flask REST API for image processing
+- [x] React frontend with image upload
+- [x] Side-by-side original vs. overlay display
+- [x] Damage percentage calculation
+- [x] Interactive pie chart with hover tooltips
+- [x] U-Net CNN architecture implementation
+- [x] Netlify frontend deployment
+- [ ] Train U-Net on labeled coral datasets
+- [ ] Replace HSV with trained CNN inference
+- [ ] Multi-class output: healthy / bleached / diseased / algae
+- [ ] Temporal monitoring — compare reef health across dates
+- [ ] Batch image processing for large-scale reef surveys
+- [ ] Exportable PDF damage reports
+- [ ] Cloud API deployment
+
+---
+
+## 🤝 Contributing
+
+Contributions welcome — especially around **model training and dataset integration**.
+
+1. Fork the repository
+2. Create a feature branch: `git checkout -b feature/your-feature`
+3. Commit: `git commit -m 'Add your feature'`
+4. Push: `git push origin feature/your-feature`
+5. Open a Pull Request
+
+---
+
+## 📜 License
+
+Built for **educational and academic research purposes**.
+Contact: [kshitij.srivastava16@gmail.com](mailto:kshitij.srivastava16@gmail.com)
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF5C1A&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:14a085,100:0d7377&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-**⚡ SparkChat** · Built with passion in India 🇮🇳 · MIT License
+**Built to protect the reefs. 🪸**
 
-[🚀 Live App](https://sparkchat-app.vercel.app) · [💻 GitHub](https://github.com/kshitijsrivastavaa/sparkchat-app) · [⚡ API Health](https://sparkchat-app.onrender.com/health)
-
-*Starting from ₹0 — built with Next.js 14 + Socket.io + WebRTC + Supabase + Razorpay*
+*If this project helped you, consider leaving a ⭐*
 
 </div>
