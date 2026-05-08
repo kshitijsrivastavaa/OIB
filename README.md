@@ -1,102 +1,286 @@
 <div align="center">
 
-# ⚡ SparkChat
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF5C1A&height=200&section=header&text=⚡%20SparkChat&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Random%205-minute%20sparks%20with%20strangers%20worldwide&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-**Random 5-minute sparks with strangers worldwide.**
+<br/>
 
-Text · Video · Voice · 5 Fun Modes · Real-time Matching
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5C1A&center=true&vCenter=true&width=600&lines=Text+%C2%B7+Video+%C2%B7+Voice+Chat;5+Fun+Modes+%C2%B7+5-Min+Timer;Real-time+Matching+%C2%B7+180%2B+Countries;Built+with+%E2%9D%A4%EF%B8%8F+in+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
-[![Live](https://img.shields.io/badge/Live-sparkchat--app.vercel.app-FF5C1A?style=flat-square&logo=vercel)](https://sparkchat-app.vercel.app)
-[![API Health](https://img.shields.io/badge/API-Health-green?style=flat-square)](https://sparkchat-app.onrender.com/health)
-[![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)](https://nextjs.org)
-[![Socket.io](https://img.shields.io/badge/Socket.io-realtime-010101?style=flat-square&logo=socket.io)](https://socket.io)
-[![Made in India](https://img.shields.io/badge/Made%20in-India%20🇮🇳-orange?style=flat-square)](https://github.com/kshitijsrivastavaa/sparkchat-app)
+<br/>
 
-[🚀 Try SparkChat](https://sparkchat-app.vercel.app) · [⭐ Star on GitHub](https://github.com/kshitijsrivastavaa/sparkchat-app)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-sparkchat--app.vercel.app-FF5C1A?style=for-the-badge)](https://sparkchat-app.vercel.app)
+[![API](https://img.shields.io/badge/⚡%20API%20Health-Online-22c55e?style=for-the-badge)](https://sparkchat-app.onrender.com/health)
+[![GitHub Stars](https://img.shields.io/github/stars/kshitijsrivastavaa/sparkchat-app?style=for-the-badge&color=FF5C1A)](https://github.com/kshitijsrivastavaa/sparkchat-app/stargazers)
+
+<br/>
+
+![Next.js](https://img.shields.io/badge/Next.js%2014-black?style=flat-square&logo=next.js)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay)
 
 </div>
 
 ---
 
-## ✨ Features
+## 🎬 Demo
 
-| Feature | Description |
-|---|---|
-| ⚡ **Instant Matching** | Real-time socket matchmaking — no swiping, no waiting |
-| 💬 **Text Chat** | Live messaging with typing indicators and emoji reactions |
-| 📹 **Video Chat** | Peer-to-peer WebRTC video — no server relay |
-| 🎙️ **Voice Chat** | Crystal-clear audio calls via real WebRTC audio |
-| 🎭 **5 Fun Modes** | Debate · Roast · Quiz · Opinion · Random |
-| ⏱️ **5-Min Timer** | Countdown keeps conversations sharp and fun |
-| 🌍 **180+ Countries** | Match by country and language preference |
-| 🚩 **Report System** | Safe, moderated platform with user reports |
-| ⭐ **Star Ratings** | Rate your spark after each chat session |
-| 👤 **Guest Mode** | No signup needed to try the app |
-| 💎 **Premium Tier** | Razorpay-powered subscriptions built in |
-| 🌙 **Dark Theme** | Sleek dark UI throughout the entire app |
+<!-- ADD YOUR SCREENSHOT BELOW — replace the URL -->
+<div align="center">
+<img src="./screenshots/preview.png" alt="SparkChat Preview" width="80%" style="border-radius:12px"/>
+
+<br/><br/>
+
+<!-- ADD YOUR DEMO VIDEO BELOW — replace YOUR_VIDEO_ID -->
+[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+</div>
+
+---
+
+## ✨ What is SparkChat?
+
+> **SparkChat** drops you into a random 5-minute conversation with a stranger from anywhere in the world — no algorithm, no feed, no scrolling. Just a raw, real human spark. ⚡
+
+You pick your vibe (Text, Video, or Voice), choose a fun mode, and you're matched instantly. When the timer hits zero, the spark ends — and you carry it with you.
+
+---
+
+## 🎭 5 Fun Modes
+
+```
+🗣️  DEBATE    →  Pick a side. Argue it.
+🔥  ROAST     →  Friendly burns only.
+🧠  QUIZ      →  Race to the right answer.
+💬  OPINION   →  Hot takes, unpopular opinions.
+🎲  RANDOM    →  Anything goes.
+```
+
+---
+
+## 🚀 Features
+
+<table>
+<tr>
+<td>
+
+**Core**
+- ⚡ Real-time socket matchmaking
+- 💬 Text chat with typing indicators
+- 📹 P2P WebRTC video (no relay)
+- 🎙️ WebRTC voice calls
+- ⏱️ 5-minute countdown timer
+
+</td>
+<td>
+
+**Social**
+- 🌍 180+ country matching
+- 🚩 Report & moderation system
+- ⭐ Post-chat star ratings
+- 👤 Guest mode (no signup)
+- 👥 User profiles & stats
+
+</td>
+<td>
+
+**Platform**
+- 💎 Premium tier (Razorpay)
+- 🌙 Full dark theme
+- 🔐 JWT auth
+- 📊 Live online counter
+- 🇮🇳 Made in India
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** Next.js 14 · React 18 · WebRTC
-
-**Backend:** Node.js · Express · Socket.io
-
-**Database:** Supabase · PostgreSQL
-
-**Auth & Payments:** JWT · Razorpay
-
-**Infra:** Vercel (frontend) · Render (backend)
+```
+┌─────────────────────────────────────────────────────┐
+│                    SPARKCHAT STACK                  │
+├──────────────────┬──────────────────────────────────┤
+│   Frontend       │  Next.js 14 · React 18           │
+│   Real-time      │  Socket.io · WebRTC              │
+│   Backend        │  Node.js · Express               │
+│   Database       │  Supabase · PostgreSQL           │
+│   Auth           │  JWT                             │
+│   Payments       │  Razorpay                        │
+│   Deploy         │  Vercel + Render / Railway       │
+└──────────────────┴──────────────────────────────────┘
+```
 
 ---
 
-## 🚀 Quick Start
+## 📁 Project Structure
 
-### 1. Clone & install
+```
+sparkchat/
+├── server/
+│   └── index.js               ← Socket.io + Express backend
+├── app/
+│   ├── page.js                ← Main app router
+│   ├── layout.js              ← Root layout
+│   ├── globals.css            ← Dark theme
+│   ├── api/
+│   │   ├── payment/
+│   │   │   ├── create-order/route.js
+│   │   │   └── verify/route.js
+│   │   └── online-count/route.js
+│   └── components/
+│       ├── Landing.js         ← Home screen
+│       ├── Auth.js            ← Login + Signup (2 steps)
+│       ├── Setup.js           ← Chat preferences
+│       ├── Waiting.js         ← Real socket matching
+│       ├── Chat.js            ← Text + Video + Voice
+│       ├── EndScreen.js       ← Rating + Razorpay payment
+│       └── Profile.js         ← User profile + stats
+├── hooks/
+│   ├── useSocket.js           ← Socket.io client hook
+│   └── useWebRTC.js           ← WebRTC video/voice hook
+├── lib/
+│   ├── supabase.js            ← Supabase client + auth
+│   └── AuthContext.js         ← React auth provider
+├── database.sql               ← Run in Supabase SQL Editor
+├── .env.example               ← Copy → .env.local
+└── package.json
+```
+
+---
+
+## ⚙️ Local Setup
+
+### 1️⃣ Clone & Install
 
 ```bash
 git clone https://github.com/kshitijsrivastavaa/sparkchat-app.git
-cd sparkchat-app && npm install
+cd sparkchat-app
+npm install
 ```
 
-### 2. Set up Supabase (free)
+### 2️⃣ Set Up Supabase (Free)
 
-Go to [supabase.com](https://supabase.com) → New Project → SQL Editor → paste `database.sql` → Run. Then copy your Project URL + keys.
+1. Go to [supabase.com](https://supabase.com) → Create free account
+2. New Project → SQL Editor → paste `database.sql` → **Run**
+3. Project Settings → API → copy your URL, anon key, service_role key
 
-### 3. Configure environment
+### 3️⃣ Configure `.env.local`
 
-Create a `.env.local` file:
+```bash
+cp .env.example .env.local
+```
 
 ```env
 NEXT_PUBLIC_SUPABASE_URL=https://xxxx.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJ...
-SUPABASE_SERVICE_ROLE_KEY=eyJ...
-JWT_SECRET=your_32_char_secret_here
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJxxx...
+SUPABASE_SERVICE_ROLE_KEY=eyJxxx...
+JWT_SECRET=any_long_random_string_here_32chars
+RAZORPAY_KEY_ID=rzp_test_xxx          # optional for now
+RAZORPAY_KEY_SECRET=xxx               # optional for now
+NEXT_PUBLIC_RAZORPAY_KEY_ID=rzp_test_xxx
 SOCKET_PORT=3001
 NEXT_PUBLIC_SOCKET_URL=http://localhost:3001
 NEXT_PUBLIC_APP_URL=http://localhost:3000
 ```
 
-### 4. Start both servers
+### 4️⃣ Run Both Servers
 
-**Terminal 1 — Backend:**
 ```bash
+# Terminal 1 — Backend
 node server/index.js
-# SparkChat server running on port 3001
-```
+# 🚀 SparkChat server running on port 3001
 
-**Terminal 2 — Frontend:**
-```bash
+# Terminal 2 — Frontend
 npm run dev
 # → open http://localhost:3000 🎉
 ```
 
 ---
 
+## 🌐 Deployment
+
+### Frontend → Vercel
+
+```bash
+npm install -g vercel && vercel
+# Add all env vars in Vercel → Settings → Environment Variables
+```
+
+### Backend → Railway / Render
+
+| Platform | Plan | Setup |
+|---|---|---|
+| Railway.app | Free tier | Connect GitHub → deploy `server/index.js` |
+| Render.com | Free tier | Web Service → Start: `node server/index.js` |
+| DigitalOcean | ₹500/mo | Full control |
+
+After deploying backend, update in Vercel:
+```env
+NEXT_PUBLIC_SOCKET_URL=https://your-backend-url.railway.app
+```
+
+---
+
+## 💰 Razorpay Setup
+
+1. [razorpay.com](https://razorpay.com) → Create account → Complete KYC
+2. Settings → API Keys → copy Key ID + Secret
+3. Paste into `.env.local` — payments work automatically ✅
+
+---
+
+## ✅ Everything That Works
+
+<details>
+<summary><b>Click to expand full feature checklist</b></summary>
+
+| Feature | Status |
+|---|---|
+| Landing page with live counter | ✅ |
+| User signup (2-step form) | ✅ |
+| User login | ✅ |
+| Guest mode (no login) | ✅ |
+| Chat type selection (text/video/voice) | ✅ |
+| Fun mode selection (5 modes) | ✅ |
+| Match preferences + country + language | ✅ |
+| Real-time socket matching | ✅ |
+| Text chat (real WebSocket) | ✅ |
+| Video chat (real WebRTC) | ✅ |
+| Voice chat (real WebRTC audio) | ✅ |
+| Typing indicator | ✅ |
+| Emoji reactions | ✅ |
+| 5-minute countdown timer | ✅ |
+| Report user system | ✅ |
+| Star rating after chat | ✅ |
+| User profile + stats | ✅ |
+| Razorpay payment integration | ✅ |
+| Premium user detection | ✅ |
+| Dark theme throughout | ✅ |
+
+</details>
+
+---
+
+## 🗺️ Roadmap
+
+- [ ] 📱 Mobile app (React Native)
+- [ ] 🎯 Interest-based matching
+- [ ] 🌐 In-chat language translation
+- [ ] 👥 Group spark rooms (3–5 people)
+- [ ] 📚 Spark history & favourites
+- [ ] 🤖 AI-powered conversation starters
+- [ ] 🎓 Verified student / college mode
+
+---
+
 ## 🗄️ Database Schema
 
-| Table | Description |
+| Table | Purpose |
 |---|---|
 | `users` | Profiles, stats, premium status, reputation |
 | `chat_sessions` | Match history, type, mode, duration |
@@ -108,43 +292,14 @@ npm run dev
 
 ---
 
-## 🌐 Deploy
-
-### Frontend → Vercel
-
-```bash
-npm install -g vercel
-vercel
-# Add all .env.local vars in Vercel → Settings → Environment Variables
-```
-
-### Backend → Render
-
-New Web Service → connect repo → Start Command: `node server/index.js` → add env vars → Deploy
-
-After backend deploy, update in Vercel:
-```env
-NEXT_PUBLIC_SOCKET_URL=https://your-app.onrender.com
-```
-
----
-
-## 🗺️ Roadmap
-
-- [ ] Mobile app (React Native)
-- [ ] Interest-based matching
-- [ ] In-chat language translation
-- [ ] Group spark rooms (3–5 people)
-- [ ] Spark history & favourites
-- [ ] AI-powered conversation starters
-- [ ] Verified student / college mode
-
----
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF5C1A&height=120&section=footer" width="100%"/>
 
 **⚡ SparkChat** · Built with passion in India 🇮🇳 · MIT License
 
-[Live App](https://sparkchat-app.vercel.app) · [GitHub](https://github.com/kshitijsrivastavaa/sparkchat-app) · [API Health](https://sparkchat-app.onrender.com/health)
+[🚀 Live App](https://sparkchat-app.vercel.app) · [💻 GitHub](https://github.com/kshitijsrivastavaa/sparkchat-app) · [⚡ API Health](https://sparkchat-app.onrender.com/health)
+
+*Starting from ₹0 — built with Next.js 14 + Socket.io + WebRTC + Supabase + Razorpay*
 
 </div>
