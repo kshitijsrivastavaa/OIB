@@ -1,378 +1,305 @@
+# 🌌 KSHITIJ SRIVASTAVA
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=220&section=header&text=Kshitij%20Srivastava&fontSize=52&fontColor=c0caf5&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20AI%20Systems%20•%20Cloud%20Engineering&descAlignY=60&descColor=a9b1d6&animation=fadeIn" />
+</div>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7377,50:14a085,100:00d4aa&height=200&section=header&text=CoralSight&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=AI%20Coral%20Reef%20Health%20Assessment&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=Coral+Reef+Bleaching+Detection+%F0%9F%AA%B8;Real-Time+AI+Segmentation+Overlay;Computer+Vision+%2B+Deep+Learning;Protecting+Marine+Ecosystems+with+AI)](https://git.io/typing-svg)
-
-<br/>
-
-<a href="https://shiny-bunny-ba12ea.netlify.app/">
-  <img src="https://img.shields.io/badge/🌐_Live_Demo-Netlify-00C7B7?style=for-the-badge&labelColor=0d7377" />
-</a>
-<a href="https://github.com/user-attachments/assets/629f8b71-8537-4b70-a256-738d971ee59c">
-  <img src="https://img.shields.io/badge/🎬_Demo_Video-Watch_Now-FF4757?style=for-the-badge&labelColor=c0392b" />
-</a>
-<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/React-Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/TensorFlow-Keras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-API-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-
-<br/><br/>
-
-> **An AI-powered full-stack system for coral reef bleaching detection, damage quantification, and marine ecosystem monitoring — combining real-time computer vision with a deep learning segmentation architecture.**
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&lines=Full+Stack+Software+Engineer+🚀;AI+%2F+ML+Systems+Developer+🧠;Building+Production-Grade+Applications+⚡;Java+%7C+Spring+Boot+%7C+React+%7C+FastAPI;Cloud+%2B+Docker+%2B+CI%2FCD+Engineering+☁️;700%2B+LeetCode+Problems+Solved+💻;Open+to+Software+Engineering+Opportunities!)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🎬 Demo Video
-
 <div align="center">
 
-<a href="https://github.com/user-attachments/assets/629f8b71-8537-4b70-a256-738d971ee59c">
-  <img src="https://img.shields.io/badge/▶️_Watch_Full_Demo-Click_Here-FF4757?style=for-the-badge&labelColor=c0392b" />
-</a>
+### 📫 Open to Full-Time Software Engineering, Backend Engineering, AI Engineering & Full Stack Opportunities
 
 </div>
 
-<br/>
+---
 
-| Step | What Happens |
-|---|---|
-| 📤 Upload | Select any underwater coral reef photograph from your machine |
-| 🎨 Overlay | Live pink/red HSV segmentation mask rendered over the original image |
-| 📊 Score | Coral damage percentage calculated and displayed instantly |
-| 🥧 Chart | Interactive pie chart with hover tooltips — Healthy vs. Affected |
-| 🔁 Multi-image | Multiple reef images tested — results ranging from **7.25% to 40.39%** affected area |
+# 👨‍💻 About Me
+
+```yaml
+name: Kshitij Srivastava
+location: Delhi, India 🇮🇳
+education: B.Tech Computer Science @ Galgotias University (2022–2026)
+
+experience:
+  - Generative AI Virtual Intern @ Google Cloud
+  - Cloud Intern @ AWS
+  - Android Development Intern @ Oasis Infobyte
+  - Java Programming Intern @ CodSoft
+
+focus:
+  - Full Stack Engineering
+  - AI-Powered Systems
+  - Backend Architecture
+  - Cloud-Native Applications
+  - Scalable API Design
+  - Real-Time Systems
+
+currently_building:
+  - AI-powered multimodal systems
+  - Production-ready full-stack platforms
+  - Scalable backend architectures
+
+competitive_programming:
+  - 700+ LeetCode Problems Solved
+  - Top 100k Globally
+
+open_to:
+  - Full-Time Roles
+  - Software Engineering Internships
+  - Backend Engineering Roles
+  - AI/ML Engineering Opportunities
+  - Freelance & Collaboration
+```
 
 ---
 
-## ✨ Live Output Preview
+# ⚡ Engineering Highlights
+
+* 🚀 Built and deployed multiple production-ready full-stack applications
+* 🧠 Developed AI-powered systems using LangChain, FAISS, Whisper, TensorFlow, and OpenCV
+* ⚡ Experience designing scalable REST APIs, asynchronous systems, and real-time communication platforms
+* ☁️ Hands-on experience with Docker, CI/CD pipelines, Vercel, Railway, AWS, and Google Cloud
+* 🔍 Implemented Retrieval-Augmented Generation (RAG) pipelines with vector embeddings and semantic search
+* 📦 Strong understanding of backend engineering, distributed systems fundamentals, and cloud-native development
+* 🏗️ Built systems involving WebSockets, SSE streaming, JWT authentication, vector databases, and multimedia processing
+* 💻 Consistent problem-solving discipline with 700+ DSA problems solved on LeetCode
+
+---
+
+# 🧩 Core Engineering Interests
 
 <div align="center">
 
-| 🖼️ Original Reef Image | 🔬 AI Segmentation Overlay |
-|:---:|:---:|
-| Raw underwater coral photograph | Pink/red mask highlighting bleached & stressed coral regions |
-| ↓ | ↓ |
-| **Input** | **OpenCV HSV Pipeline Output** |
+| Backend Systems         | AI Infrastructure                    | Cloud Engineering        |
+| ----------------------- | ------------------------------------ | ------------------------ |
+| Distributed Systems     | Retrieval-Augmented Generation (RAG) | Scalable APIs            |
+| Real-Time Communication | System Design                        | Dockerized Architectures |
+| Microservices           | Vector Search Systems                | DevOps & CI/CD           |
 
 </div>
 
-**Each analysis produces:**
-- 🔴 Color overlay showing exact damaged reef zones
-- 📈 `Affected Area: X.XX%` — precise numerical damage score
-- 🥧 Interactive pie chart — hover to see `Healthy: XX.XX` and `Affected: XX.XX`
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## ⚙️ Backend & APIs
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+## 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+## 🗄️ Databases & Storage
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+
+## 🧠 AI / ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
 ---
 
-## 🌍 Why This Project Exists
+# 🚀 Featured Projects
 
-Coral reefs cover **less than 1% of the ocean floor** yet support **over 25% of all marine species**. They are collapsing at an unprecedented rate:
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧠 DocQA — AI-Powered Document & Multimedia Q&A</h3>
+      <p align="center">
+        <a href="https://github.com/kshitijsrivastavaa/DocQA-AI">
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://docqa-ai.vercel.app">
+          <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+      </p>
+      <p>AI-powered multimodal RAG platform enabling users to interact with PDFs, audio, and video content using natural language queries. Implemented semantic retrieval pipelines with FAISS vector search, Whisper-based transcription, timestamp-aware media navigation, SSE streaming responses, and asynchronous processing architecture.</p>
+      <p>Production-ready deployment with Dockerized services, CI/CD automation, scalable API design, vector embeddings, and cloud-native infrastructure.</p>
+      <p><b>Tech:</b> FastAPI · React · LangChain · FAISS · Groq Whisper · PostgreSQL · Docker · CI/CD</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🪸 CoralReefVisionAI</h3>
+      <p align="center">
+        <a href="https://github.com/kshitijsrivastavaa/CoralReefVisionAI">
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://shiny-bunny-ba12ea.netlify.app">
+          <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+        </a>
+      </p>
+      <p>AI-powered coral reef health assessment system leveraging U-Net CNN segmentation and computer vision pipelines to detect coral bleaching severity from underwater imagery.</p>
+      <p>Implemented HSV-based preprocessing, semantic segmentation, affected-area computation, overlay visualization, and REST APIs for scalable inference workflows.</p>
+      <p><b>Tech:</b> Python · Flask · TensorFlow · OpenCV · NumPy · Deep Learning</p>
+    </td>
+  </tr>
 
-| Threat | Impact |
-|---|---|
-| 🌡️ Rising ocean temperatures | Mass bleaching events, coral death |
-| 🧪 Ocean acidification | Dissolves coral calcium carbonate structures |
-| 🏭 Marine pollution & runoff | Smothers coral, blocks photosynthesis |
-| 🦠 Coral disease outbreaks | Rapid colony die-offs |
-| 🌿 Algae overgrowth | Outcompetes healthy coral for space |
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚡ SparkChat</h3>
+      <p align="center">
+        <a href="https://github.com/kshitijsrivastavaa/Sparkchat">
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://sparkchat-app.vercel.app">
+          <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+      </p>
+      <p>Real-time anonymous communication platform supporting text, voice, and video interactions using WebRTC and Socket.io.</p>
+      <p>Built scalable matchmaking systems, timed chat sessions, secure payment integration, low-latency communication pipelines, and responsive full-stack architecture.</p>
+      <p><b>Tech:</b> Next.js 14 · Socket.io · WebRTC · Supabase · Razorpay</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">💰 FinSight — Smart Finance Intelligence</h3>
+      <p align="center">
+        <a href="https://github.com/kshitijsrivastavaa/FinSight-Personal-Finance-Tracker">
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://fin-sight-personal-finance-tracker.vercel.app">
+          <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+      </p>
+      <p>Production-grade personal finance platform with JWT authentication, analytics dashboards, transaction tracking, and multi-user architecture.</p>
+      <p>Built responsive frontend systems, REST APIs, Dockerized deployments, and cloud infrastructure.</p>
+      <p><b>Tech:</b> Spring Boot · React · TypeScript · PostgreSQL · Docker</p>
+    </td>
+  </tr>
 
-Traditional reef monitoring relies on **manual diver surveys** — expensive, slow, impossible to scale. CoralSight automates reef health assessment from a single photograph. **One image. Seconds. A full damage report.**
-
----
-
-## ⚡ Features
-
-### 🔬 Real-Time CV Segmentation Pipeline — LIVE & WORKING
-
-Upload any coral reef image → get back a segmentation overlay and damage score in seconds.
-
-1. Image received by Flask API and preprocessed
-2. Converted from **RGB → HSV** color space
-3. Pixels with **low saturation + high brightness** are flagged — the optical signature of bleached coral
-4. **Morphological filtering** (dilation + erosion) removes noise and sharpens mask edges
-5. Binary segmentation mask generated over affected zones
-6. **Damage percentage** calculated from masked pixel ratio
-7. **Colored overlay rendered** on the original image via OpenCV
-8. Results returned as JSON → React frontend renders instantly
-
----
-
-### 📊 Coral Damage Quantification — LIVE & WORKING
-
-Every image produces an exact affected area score:
-
-| Image Tested | Affected Area | Health Status |
-|---|---|---|
-| `coral 3img.jpeg` | **40.39%** | 🔴 Significant bleaching — high stress |
-| `coral2pic.jpeg` | **21.25%** | 🟡 Early-stage bleaching detected |
-| `coral img 4.jpeg` | **7.25%** | 🟢 Mostly healthy, minor stress zones |
-
----
-
-### 🥧 Interactive Damage Distribution Chart — LIVE & WORKING
-
-- Pie chart renders the **Healthy vs. Affected** split for each image
-- **Hover tooltips** show exact values — `Healthy: 92.75`, `Affected: 7.25`
-- Color-coded: 🟢 green = healthy, 🔴 red = affected
-- Powered by a JavaScript charting library (Recharts / Chart.js)
-
----
-
-### 🖼️ Side-by-Side Comparison View — LIVE & WORKING
-
-- **Left panel:** original uploaded reef photograph
-- **Right panel:** AI segmentation overlay with bleaching zones highlighted in pink/red
-- Immediate visual confirmation of what the algorithm detected
-- Overlay proportionally sized and aligned to the original image
-
----
-
-### 🤖 U-Net Deep Learning Architecture — IMPLEMENTED & TRAINING-READY
-
-A full **U-Net CNN** for semantic segmentation is implemented in TensorFlow/Keras:
-
-```
-Input (224 × 224 × 3 RGB)
-        ↓
-┌─── Encoder (Contracting Path) ────┐
-│  Conv2D → BN → ReLU               │
-│  MaxPool2D                         │  × 4 levels
-│  (skip connection saved) ──────────┼──────────┐
-└───────────────────────────────────┘           │
-        ↓                                       │
-   Bottleneck (deepest features)                │
-        ↓                                       │
-┌─── Decoder (Expanding Path) ──────┐           │
-│  UpSampling2D                     │           │
-│  Concat ← skip connection ─────────┼───────────┘
-│  Conv2D → BN → ReLU               │  × 4 levels
-└───────────────────────────────────┘
-        ↓
-Output: Pixel-wise segmentation map
-(4 classes: Healthy / Bleached / Diseased / Algae)
-```
-
-**Why U-Net?** Skip connections preserve spatial detail lost during downsampling — critical for precise reef boundary detection. Proven in medical imaging, satellite analysis, and environmental monitoring with strong results on limited datasets.
+  <tr>
+    <td width="50%">
+      <h3 align="center">📋 TaskFlow</h3>
+      <p align="center">
+        <a href="https://github.com/kshitijsrivastavaa/taskflow">
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://frontend-smoky-tau-78.vercel.app">
+          <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+      </p>
+      <p>Collaborative task management platform with Kanban workflows, JWT authentication, role-based access control, analytics dashboards, and production deployment.</p>
+      <p><b>Tech:</b> Flask · React · PostgreSQL · TailwindCSS · Railway</p>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
 ---
 
-## 🏗️ System Architecture
+# 🏅 Certifications & Achievements
 
-```
-                    ┌─────────────────────────────┐
-                    │     React + Vite Frontend    │
-                    │  Upload · View · Chart · UI  │
-                    └──────────────┬──────────────┘
-                                   │ HTTP POST (multipart/form-data)
-                    ┌──────────────▼──────────────┐
-                    │        Flask REST API         │
-                    │          server.py            │
-                    └──────────────┬──────────────┘
-                                   │
-                    ┌──────────────▼──────────────┐
-                    │    Image Processing Pipeline  │
-                    │   coralsight/backend/ai/      │
-                    │   segmentation/service.py     │
-                    └──────────────┬──────────────┘
-                         ┌─────────┴─────────┐
-                         ▼                   ▼
-              ┌─────────────────┐   ┌─────────────────┐
-              │  segment.py     │   │    unet.py       │
-              │  HSV Baseline   │   │  U-Net CNN       │
-              │  (Active)       │   │  (Architecture)  │
-              └────────┬────────┘   └─────────────────┘
-                       │
-              ┌────────▼────────┐
-              │  Mask + Overlay  │
-              │  Generation      │
-              │  (OpenCV/NumPy)  │
-              └────────┬────────┘
-                       │ JSON response
-                    ┌──▼──────────────────────────┐
-                    │  Frontend renders:           │
-                    │  • Side-by-side images       │
-                    │  • Damage % score            │
-                    │  • Interactive pie chart     │
-                    └─────────────────────────────┘
-```
+* 🧠 Google Cloud Generative AI Learning Path — 24 Skill Badges
+* ☁️ Google Generative AI Virtual Internship
+* 🚀 NASA International Space Apps Challenge Participant
+* 💻 700+ LeetCode Problems Solved
+* 🌍 Ranked within Top 100k Globally on LeetCode
+* 📱 Android Application Development Certification
+* ⚡ Accenture Advanced Engineering Job Simulation
 
 ---
 
-## 🛠️ Tech Stack
+# 📊 GitHub Analytics
 
-**Frontend**
-| Tech | Role |
-|---|---|
-| React + Vite | UI framework, fast HMR dev server |
-| Tailwind CSS | Utility-first styling |
-| Chart.js / Recharts | Interactive pie chart with hover tooltips |
-| JavaScript ES6+ | Application logic |
+<div align="center">
 
-**Backend**
-| Tech | Role |
-|---|---|
-| Python 3.x | Core runtime |
-| Flask | Lightweight REST API server |
-| Flask-CORS | Cross-origin request handling |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kshitijsrivastavaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
-**Computer Vision**
-| Tech | Role |
-|---|---|
-| OpenCV | Color space conversion, morphological ops, overlay rendering |
-| NumPy | Array operations, mask arithmetic |
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijsrivastavaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-**Deep Learning**
-| Tech | Role |
-|---|---|
-| TensorFlow | Deep learning framework |
-| Keras | U-Net architecture definition and training API |
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kshitijsrivastavaa&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 📂 Project Structure
+# 🏆 GitHub Trophies
 
-```
-CoralReefVisionAI/
-│
-├── coralsight-main/
-│   └── backend/
-│       └── ai/
-│           └── segmentation/
-│               ├── service.py       ← Segmentation orchestration
-│               ├── unet.py          ← U-Net CNN (TF/Keras)
-│               └── segment.py       ← HSV segmentation algorithm
-│
-├── src/
-│   ├── App.jsx                      ← Main React component
-│   ├── main.jsx                     ← React entry point
-│   └── index.css                    ← Global styles (Tailwind)
-│
-├── models/                          ← Model weights directory
-├── scripts/                         ← Utility & helper scripts
-│
-├── server.py                        ← Flask API server
-├── index.html                       ← Vite HTML entry
-├── package.json                     ← Node dependencies
-├── vite.config.js                   ← Vite build config
-├── tailwind.config.js               ← Tailwind config
-└── Readme.md
-```
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kshitijsrivastavaa&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-## 🚀 Getting Started
+# 📈 Contribution Graph
 
-**1. Clone the repository**
-```bash
-git clone https://github.com/kshitijsrivastavaa/CoralReefVisionAI.git
-cd CoralReefVisionAI
-```
+<div align="center">
 
-**2. Install frontend dependencies**
-```bash
-npm install
-```
+[![Kshitij's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kshitijsrivastavaa&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-**3. Install backend dependencies**
-```bash
-pip install flask flask-cors opencv-python numpy tensorflow
-```
-
-**4. Start the Flask backend**
-```bash
-python server.py
-```
-
-**5. Start the React frontend** (new terminal)
-```bash
-npm run dev
-```
-
-**6. Open in browser**
-```
-http://localhost:5173
-```
+</div>
 
 ---
 
-## 🌐 Deployment
+# 🤝 Connect With Me
 
-**Frontend** is live on Netlify → 🔗 [https://shiny-bunny-ba12ea.netlify.app/](https://shiny-bunny-ba12ea.netlify.app/)
+<div align="center">
 
-> ⚠️ The Netlify link runs the **frontend only**. The Flask image processing backend must be run locally for full segmentation functionality.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-srivastava-b038b5325/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitij.srivastava16@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kshitijsrivastavaa)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/kshitij_srivastava16/)
 
-**Build for production:**
-```bash
-npm run build
-# Output in /dist directory
-```
-
----
-
-## 📚 Dataset Sources
-
-Future U-Net training will use these publicly available labeled coral datasets:
-
-| Dataset | Description | Use |
-|---|---|---|
-| [CoralNet](https://coralnet.ucsd.edu/) | Point annotation platform for benthic images | U-Net training labels |
-| [ReefBase](http://www.reefbase.org/) | Global coral reef monitoring database | Diverse reef imagery |
-| [NOAA Coral Reef Watch](https://coralreefwatch.noaa.gov/) | Satellite-derived reef monitoring data | Ground truth + validation |
-
----
-
-## 🔮 Roadmap
-
-- [x] HSV baseline segmentation pipeline
-- [x] Flask REST API for image processing
-- [x] React frontend with image upload
-- [x] Side-by-side original vs. overlay display
-- [x] Damage percentage calculation
-- [x] Interactive pie chart with hover tooltips
-- [x] U-Net CNN architecture implementation
-- [x] Netlify frontend deployment
-- [ ] Train U-Net on labeled coral datasets
-- [ ] Replace HSV baseline with trained CNN inference
-- [ ] Multi-class output: healthy / bleached / diseased / algae
-- [ ] Temporal monitoring — compare reef health across dates
-- [ ] Batch image processing for large-scale reef surveys
-- [ ] Exportable PDF damage reports
-- [ ] Cloud API deployment
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome — especially around model training and dataset integration.
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-feature`
-3. Commit your changes: `git commit -m 'Add your feature'`
-4. Push: `git push origin feature/your-feature`
-5. Open a Pull Request
-
----
-
-## 📜 License
-
-Built for **educational and academic research purposes**.
-Contact: [kshitij.srivastava16@gmail.com](mailto:kshitij.srivastava16@gmail.com)
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:14a085,100:0d7377&height=120&section=footer&animation=fadeIn" width="100%"/>
+### 👨‍💻 Kshitij Srivastava
 
-**Built to protect the reefs. 🪸**
+📧 [kshitij.srivastava16@gmail.com](mailto:kshitij.srivastava16@gmail.com)
 
-*If this project helped you, consider leaving a ⭐*
+⭐ Building scalable software systems, AI-powered applications, and production-grade backend architectures.
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=120&section=footer"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kshitijsrivastavaa&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
