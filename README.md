@@ -216,7 +216,18 @@ open_to:
       <p>Collaborative task management platform with Kanban workflows, JWT authentication, role-based access control, analytics dashboards, and production deployment.</p>
       <p><b>Tech:</b> Flask · React · PostgreSQL · TailwindCSS · Railway</p>
     </td>
-    <td width="50%"></td>
+    </td>
+    <td width="50%">
+      <h3 align="center">📈 Coding Problem Tracker</h3>
+      <p align="center">
+        <a href="https://github.com/kshitijsrivastavaa/coding_problem_tracker">
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>Web-based tool to track coding problems, log solutions, and analyze performance over time. Supports multi-user authentication, difficulty categorization (Easy/Medium/Hard), custom test cases, and analytics dashboards with charts.</p>
+      <p>Features REST API endpoints for problem management, Dockerized setup, and local deployment for personal DSA tracking.</p>
+      <p><b>Tech:</b> Python · Flask · JavaScript · Docker · REST API · Analytics</p>
+    </td>
   </tr>
 </table>
 
