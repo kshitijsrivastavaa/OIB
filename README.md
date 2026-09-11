@@ -1,12 +1,12 @@
 # 🌌 KSHITIJ SRIVASTAVA
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=220&section=header&text=Kshitij%20Srivastava&fontSize=52&fontColor=c0caf5&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20AI%20Systems%20•%20Cloud%20Engineering&descAlignY=60&descColor=a9b1d6&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:ff512f,100:f09819&height=220&section=header&text=Kshitij%20Srivastava&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20•%20AI%20Systems%20•%20Cloud%20Engineering&descAlignY=60&descColor=ffd7b5&animation=fadeIn" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&lines=Full+Stack+Software+Engineer+🚀;AI+%2F+ML+Systems+Developer+🧠;Building+Production-Grade+Applications+⚡;Java+%7C+Spring+Boot+%7C+React+%7C+FastAPI;Cloud+%2B+Docker+%2B+CI%2FCD+Engineering+☁️;700%2B+LeetCode+Problems+Solved+💻;Open+to+Software+Engineering+Opportunities!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF512F&center=true&vCenter=true&width=850&lines=Full+Stack+Software+Engineer+🚀;AI+%2F+ML+Systems+Developer+🧠;Building+Production-Grade+Applications+⚡;Java+%7C+Spring+Boot+%7C+React+%7C+FastAPI;Cloud+%2B+Docker+%2B+CI%2FCD+Engineering+☁️;700%2B+LeetCode+Problems+Solved+💻;Open+to+Software+Engineering+Opportunities!)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### 📫 Open to Full-Time Software Engineering, Backend Engineering, AI Engineering & Full Stack Opportunities
+![Open to Work](https://img.shields.io/badge/📫_OPEN_TO-Full--Time_%7C_Backend_%7C_AI_Engineering_%7C_Full_Stack-FF512F?style=for-the-badge&labelColor=1a0000)
 
 </div>
 
@@ -246,15 +246,15 @@ open_to:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kshitijsrivastavaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kshitijsrivastavaa&show_icons=true&theme=dark_sunset&include_all_commits=true&count_private=true&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijsrivastavaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijsrivastavaa&layout=compact&langs_count=8&theme=dark_sunset&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kshitijsrivastavaa&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kshitijsrivastavaa&theme=dark_sunset&hide_border=true&background=1A0000&ring=FF512F&fire=F09819&currStreakLabel=FF512F)](https://git.io/streak-stats)
 
 </div>
 
@@ -264,7 +264,7 @@ open_to:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kshitijsrivastavaa&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kshitijsrivastavaa&theme=gruvbox&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -274,7 +274,7 @@ open_to:
 
 <div align="center">
 
-[![Kshitij's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kshitijsrivastavaa&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kshitij's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kshitijsrivastavaa&custom_title=Contribution%20Graph&bg_color=1A0000&color=FF512F&line=F09819&point=FFD7B5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -306,8 +306,8 @@ open_to:
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f09819,50:ff512f,100:1a0000&height=120&section=footer"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kshitijsrivastavaa&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=kshitijsrivastavaa&color=FF512F&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
