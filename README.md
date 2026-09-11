@@ -1,5 +1,3 @@
-EXPERIMENT REPO
-
 # 🌌 KSHITIJ SRIVASTAVA
 
 <div align="center">
@@ -31,9 +29,8 @@ education: B.Tech Computer Science @ Galgotias University (2022–2026)
 
 experience:
   - Generative AI Virtual Intern @ Google Cloud
-  - Cloud Intern @ AWS
-  - Android Development Intern @ Oasis Infobyte
-  - Java Programming Intern @ CodSoft
+  - Cloud Virtual Intern @ AWS
+  - Data Analytics Virtual Intern @ Alteryx
 
 focus:
   - Full Stack Engineering
@@ -218,7 +215,6 @@ open_to:
       <p>Collaborative task management platform with Kanban workflows, JWT authentication, role-based access control, analytics dashboards, and production deployment.</p>
       <p><b>Tech:</b> Flask · React · PostgreSQL · TailwindCSS · Railway</p>
     </td>
-    </td>
     <td width="50%">
       <h3 align="center">📈 Coding Problem Tracker</h3>
       <p align="center">
@@ -242,7 +238,6 @@ open_to:
 * 🚀 NASA International Space Apps Challenge Participant
 * 💻 700+ LeetCode Problems Solved
 * 🌍 Ranked within Top 100k Globally on LeetCode
-* 📱 Android Application Development Certification
 * ⚡ Accenture Advanced Engineering Job Simulation
 
 ---
@@ -289,7 +284,7 @@ open_to:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-srivastava-b038b5325/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kshitij-srivastava16/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitij.srivastava16@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kshitijsrivastavaa)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/kshitij_srivastava16/)
