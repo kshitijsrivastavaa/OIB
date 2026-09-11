@@ -246,15 +246,15 @@ open_to:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kshitijsrivastavaa&show_icons=true&theme=dark_sunset&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kshitijsrivastavaa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A0000&title_color=FF512F&icon_color=F09819&text_color=FFD7B5"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijsrivastavaa&layout=compact&langs_count=8&theme=dark_sunset&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijsrivastavaa&layout=compact&langs_count=8&hide_border=true&bg_color=1A0000&title_color=FF512F&text_color=FFD7B5"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kshitijsrivastavaa&theme=dark_sunset&hide_border=true&background=1A0000&ring=FF512F&fire=F09819&currStreakLabel=FF512F)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kshitijsrivastavaa&hide_border=true&background=1A0000&ring=FF512F&fire=F09819&currStreakNum=FFFFFF&sideNums=FFD7B5&currStreakLabel=FF512F&sideLabels=FFD7B5&dates=CCA88A&stroke=FF512F)](https://git.io/streak-stats)
 
 </div>
 
