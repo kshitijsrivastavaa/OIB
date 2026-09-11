@@ -134,6 +134,14 @@ open_to:
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
+## 📊 Data Analytics
+
+![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=for-the-badge&logo=alteryx&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel_%2F_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 ---
 
 # 🚀 Featured Projects
@@ -216,15 +224,18 @@ open_to:
       <p><b>Tech:</b> Flask · React · PostgreSQL · TailwindCSS · Railway</p>
     </td>
     <td width="50%">
-      <h3 align="center">📈 Coding Problem Tracker</h3>
+      <h3 align="center">📊 PulsePoint — India Tech Job Market Analytics</h3>
       <p align="center">
-        <a href="https://github.com/kshitijsrivastavaa/coding_problem_tracker">
+        <a href="https://github.com/kshitijsrivastavaa/pulsepoint">
           <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
+        <a href="https://pulsepoint-pied.vercel.app">
+          <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
       </p>
-      <p>Web-based tool to track coding problems, log solutions, and analyze performance over time. Supports multi-user authentication, difficulty categorization (Easy/Medium/Hard), custom test cases, and analytics dashboards with charts.</p>
-      <p>Features REST API endpoints for problem management, Dockerized setup, and local deployment for personal DSA tracking.</p>
-      <p><b>Tech:</b> Python · Flask · JavaScript · Docker · REST API · Analytics</p>
+      <p>Live data analytics platform tracking India's tech job market in real time, built on original live API ingestion rather than a static dataset. Implements skill-extraction and role-categorization pipelines to turn raw job postings into structured, queryable data.</p>
+      <p>Features a Chart.js analytics dashboard surfacing hiring trends, in-demand skills, and role distribution, backed by a PostgreSQL-driven ETL pipeline.</p>
+      <p><b>Tech:</b> Python · FastAPI · PostgreSQL · Adzuna API · Chart.js · Render · Vercel</p>
     </td>
   </tr>
 </table>
@@ -235,6 +246,10 @@ open_to:
 
 * 🧠 Google Cloud Generative AI Learning Path — 24 Skill Badges
 * ☁️ Google Generative AI Virtual Internship
+* ☁️ AWS Cloud Architecting Certification
+* 🌐 CCNA — Introduction to Networks (Cisco)
+* 🤖 IBM AI & Machine Learning Certification
+* 📊 Alteryx Designer Core Certification
 * 🚀 NASA International Space Apps Challenge Participant
 * 💻 700+ LeetCode Problems Solved
 * 🌍 Ranked within Top 100k Globally on LeetCode
